@@ -1,0 +1,12 @@
+[project]
+dependencies = [
+  "black>=25.1.0",
+  "locust>=2.37.14",
+  "mypy>=1.17.0",
+  "ruff>=0.12.7",
+]
+description = ""
+name = "nest-demo"
+readme = "README.md"
+requires-python = ">=3.13"
+version = "0.1.0"
